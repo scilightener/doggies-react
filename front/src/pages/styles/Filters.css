@@ -1,0 +1,18 @@
+.filter-span {
+    max-width: 500px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.filter {
+    width: 100%;
+}
+
+.filter-panel-collapse {
+    width: 100%;
+    max-width: 550px;
+    margin: 10px;
+}
